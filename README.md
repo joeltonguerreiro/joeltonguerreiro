@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joelton Guerreiro</h1>
 <h3 align="center">A enthusiast web fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Light Up**
+- 🔭 I’m currently working on **EyeCarePro**
 
 - 🌱 I’m currently learning **TypeScript, Data Science**
 
